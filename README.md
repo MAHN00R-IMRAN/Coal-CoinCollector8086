@@ -1,5 +1,6 @@
 # CoinCollector8086
 An interactive 8086 Assembly Language game where players choose single-player or two-player mode. Players collect coins by pressing keys, and their scores are updated and displayed.It demonstrates concepts in computer organization and low-level programming.
+
 ---
 https://github.com/user-attachments/assets/e7c24e56-993e-4b3b-9732-136e6bd4bfa7
 
