@@ -49,13 +49,4 @@ https://github.com/user-attachments/assets/e7c24e56-993e-4b3b-9732-136e6bd4bfa7
   - J: Move Left
   - L: Move Right
 
----
 
-## Authors
-- *Mahnoor Imran*
-- *Saneha Raees*
-
----
-
-## License
-This project is open-source. You are free to use and modify it.
